@@ -151,8 +151,8 @@ sudo npm install -g pm2
 
 3. **Clone repository:**
 ```bash
-git clone your-repository-url
-cd movie-review-platform/server
+git clone https://github.com/eres45/R4U.git
+cd R4U/server
 npm install --production
 ```
 

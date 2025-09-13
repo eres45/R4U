@@ -56,8 +56,8 @@ Before running this project, make sure you have the following installed:
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd movie-review-platform
+git clone https://github.com/eres45/R4U.git
+cd R4U
 ```
 
 ### 2. Frontend Setup
@@ -141,7 +141,7 @@ npm start
 ## 📁 Project Structure
 
 ```
-movie-review-platform/
+R4U/
 ├── public/                 # Static files
 ├── src/                   # Frontend source code
 │   ├── components/        # Reusable UI components
